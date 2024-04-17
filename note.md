@@ -3,8 +3,8 @@
 ## 2.  Linx sar 显示网速
 ```shell
 sar -n DEV 1 60 
-高版本sarke'y
+高版本sar可以指定网卡，例如--iface=enp0s8
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI4NzQxNzM0LDE5MjMwNjExMzBdfQ==
+eyJoaXN0b3J5IjpbMTE4NDg0NzgyMSwxOTIzMDYxMTMwXX0=
 -->
