@@ -5,6 +5,8 @@
 sar -n DEV 1 60 
 高版本sar可以指定网卡，例如--iface=enp0s8
 ```
+## 3.数字证书的原理是什么？
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NDg0NzgyMSwxOTIzMDYxMTMwXX0=
+eyJoaXN0b3J5IjpbODMwNDkzNTE5LDExODQ4NDc4MjEsMTkyMz
+A2MTEzMF19
 -->
