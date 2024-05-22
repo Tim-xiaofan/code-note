@@ -22,6 +22,7 @@ aes-256-cbc         算法为AES256，模式为CBC
 -e                  Encrypt
 -d                  Decrypt
 ```
+PS：要求openssl加解密版本一致
 
 ## 5. vbox设置共享文件——Linux mount篇
 ```shell
