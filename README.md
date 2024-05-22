@@ -112,3 +112,9 @@ baidu.com: 39.156.66.10                        -- link: enp0s17
 ```shell
 $ sudo systemd-resolve --interface enp0s17 --set-dns 114.114.114.114 --set-domain yourdomain.local
 ```
+
+## 选择时区并同步到北京时间
+```shell
+$ tzselect
+$ sudo ntpdate  cn.pool.ntp.org
+```
