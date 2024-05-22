@@ -25,7 +25,8 @@ aes-256-cbc         算法为AES256，模式为CBC
 
 ## 5. vbox设置共享文件——Linux mount篇
 ```shell
-$ mount -t vboxsf <share> <mount_point>
+$ sudo mount -t vboxsf <share> <mount_point>
+$ sudo adduser $USER vboxsf
 ```
 
 ## 6. 使用tcpdump结合过滤条件提取pcap新文件
